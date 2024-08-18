@@ -2,4 +2,4 @@
 start
 go build tracker.go
 ./tracker <command>
-https://github.com/Taala2/task-tracker
+https://roadmap.sh/projects/task-tracker
